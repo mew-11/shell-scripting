@@ -1,0 +1,7 @@
+calculator.sh
+day2.md
+main.sh
+output.txt
+process.sh
+special_patterm.sh
+Hello World
