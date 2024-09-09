@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 echo -n "Enter Any Number: "
 read -r n
 i=1
