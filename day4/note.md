@@ -1,0 +1,2 @@
+- [ ] code agin pomodoro
+- [ ] research option of echo and read
