@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello, World!"
+# Check if the user has provided the required arguments
