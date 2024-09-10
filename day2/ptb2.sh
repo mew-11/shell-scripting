@@ -5,6 +5,10 @@ echo -n " b = "
 read b
 echo -n " c = "
 read c
+
+# -eq: equal
+# -lt: less than
+# -gt: greater than
 if [ $a -eq 0 ]; then
    if [ $b -eq 0 ]; then
       if [ $c -eq 0 ]; then

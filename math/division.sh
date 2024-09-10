@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 echo -n 'Enter the First Number: '
 read a
 echo -n "Enter the Second Number: "

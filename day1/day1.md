@@ -109,6 +109,11 @@ echo $i
 done
 ```
 
+```bash
+
+for (( i=1; i<=10; i++ ))
+```
+
 ## case statement
 
 ```bash

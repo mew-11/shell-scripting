@@ -5,3 +5,5 @@ for c in 90 31 32 33 34 35 36 37; do
    echo -en "\r \e[${c}m CODE WITH LOVE \e[0m "
    sleep 1
 done
+
+echo -e "\e[34m hello \e[0m "
