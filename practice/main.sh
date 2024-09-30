@@ -37,6 +37,15 @@ function kernel_version() {
    echo ""
 }
 
+# to print all info to check
+
+function all() {
+   memory_usage
+   cpu_usage
+   disk_usage
+   kernel_version
+}
+
 while true; do
    echo "Menu"
    echo "1. memory_usage"
